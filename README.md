@@ -1,2 +1,2 @@
 # SpringBootJPA
-Practice project of Spring Boot and JPA
+🌿 Practice project of Spring Boot and JPA
